@@ -64,7 +64,7 @@ h1 {
 }
 
 p {
-    font-size:50;
+    font-size:50px;
     margin: 0 0 10px
 }
 .taille_p{
@@ -95,7 +95,7 @@ blockquote .small, blockquote footer, blockquote small {
     display: block;
     font-size: 80%;
     line-height: 1.42857143;
-    color: #777
+    color: rgb(36, 33, 33)
 }
 
 blockquote .small:before, blockquote footer:before, blockquote small:before {
