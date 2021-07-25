@@ -27,8 +27,15 @@ b, strong {
 }
 h1 {
     margin: .67em 0;
-    font-size: 2em
+    font-size: 2em;
+    color: #292323!important;
+    
 }
+
+h1 {
+    color: #292323!important;
+}
+
 .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
     font-family: inherit;
     font-weight: 500;
@@ -528,7 +535,7 @@ input[type=search] {
 .d-bloc .divider-h span {
     border-color: rgba(255, 255, 255, .2);
 }
-
+/*
 .d-bloc .a-btn,
 .d-bloc .navbar a,
 .d-bloc .navbar-brand,
@@ -545,7 +552,7 @@ input[type=search] {
 .d-bloc p a {
     color: rgba(255, 255, 255, .6);
 }
-
+*/
 .d-bloc .a-btn:hover,
 .d-bloc .navbar a:hover,
 .d-bloc .navbar-brand:hover,
@@ -970,7 +977,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: #1d1a1a;
 }
 
 .container {
@@ -1021,6 +1028,7 @@ p {
 .social {
     max-width: 400px;
     margin: auto auto auto auto;
+    color: #3a3c41;
 }
 
 h2 {
@@ -1032,7 +1040,7 @@ h3 {
     font-size: 15px;
     text-transform: uppercase;
     font-weight: 700;
-    color: #333333!important;
+    color: #1d1a1a;
 }
 
 .med-width-whitespace {
@@ -1042,11 +1050,11 @@ h3 {
 }
 
 h1 {
-    color: #333333!important;
+    color: #1d1a1a;
 }
 
 h4 {
-    color: #333333!important;
+    color: #1d1a1a;
 }
 
 .icons {
@@ -1090,11 +1098,11 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #3c3633;
+    background-color: #F3976C;
 }
 
 .tc-white {
-    color: #FBFAF9 !important;
+    color: #FFFFFF;
 }
 
 .btn-atomic-tangerine {
